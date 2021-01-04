@@ -4,11 +4,11 @@
 
 ##### To Do:
 
-* [ ] Plan your project
-* [ ] Come Up with a Topic
-* [ ] Create script and run it locally
-* [ ] Set up version control
-* [ ] Store message components
-* [ ] Create the message
-* [ ] Put the program together
-* [ ] Next Steps
+* [x] Plan your project
+* [x] Come Up with a Topic
+* [x] Create script and run it locally
+* [x] Set up version control
+* [x] Store message components
+* [x] Create the message
+* [x] Put the program together
+* [x] Next Steps
